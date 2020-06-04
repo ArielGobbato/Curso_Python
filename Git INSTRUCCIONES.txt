@@ -1,0 +1,8 @@
+
+
+git init -> iniciar un repositorio nuevo en local (mi maquina)
+
+git status -> ver estado de modificaciones en la máquina
+git add . -> agregar todos las archivos
+git commit -m "mensaje conveniente respecto a lo realizado" (que agregado en el git de la maquina)
+git push origin master -> lo mando a la web y Fcinqueo F5
