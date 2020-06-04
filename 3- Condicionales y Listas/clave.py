@@ -17,4 +17,3 @@ for i in range(0,3,1) :
         break
     else:
         print("NO COINCIDE: Corre Guachin")
-        
